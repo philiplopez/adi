@@ -10,8 +10,7 @@ of DI tools available for JavaScript, aDI takes the lead from
 API. aDI, however, aims to be idiomatic ES6, be well-documented, and support
 common use cases without trying to be too sophisticated.
 
-Google's Guice for Java (and the related Gin for GWT), as well as Spring,
-are key influences.
+Google's Guice for Java is the key influence.
 
 
 Concepts
